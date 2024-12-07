@@ -1,5 +1,5 @@
 package assign02;
-
+// Abdullah Essam
 import java.util.Scanner;
 
 public class binToDec {
