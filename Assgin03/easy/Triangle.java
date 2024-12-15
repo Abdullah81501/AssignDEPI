@@ -1,5 +1,5 @@
 package easy;
-// this isn't easy muaz......
+// this isn't easy Muaz......
 public class Triangle {
 
 	public static void main(String[] args) {
